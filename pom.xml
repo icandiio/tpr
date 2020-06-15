@@ -45,7 +45,7 @@
 
         <commons-beanutils.version>1.8.3</commons-beanutils.version>
         <commons-codec.version>1.8</commons-codec.version>
-        <commons-collections.version>3.2.1</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <commons-httpclient.version>3.0.1</commons-httpclient.version>
         <apache-httpclient.version>4.3.1</apache-httpclient.version>
