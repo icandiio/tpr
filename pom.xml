@@ -72,7 +72,7 @@
 
         <protostuff.version>1.0.9</protostuff.version>
 
-        <poi.version>3.13</poi.version>
+        <poi.version>4.1.2</poi.version>
         <easy-poi.version>2.3.0.2</easy-poi.version>
 
         <fastjson.version>1.2.32</fastjson.version>
